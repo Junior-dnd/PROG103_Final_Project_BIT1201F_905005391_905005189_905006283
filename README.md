@@ -62,7 +62,8 @@ Handles backend operations and in‑memory data storage:
    ```bash
    python gui_layer.py
 
-##Authors
- -Osman Junior Kamara
- -precious Aminata Sandy 
- -Alpha C.K Allieu
+## Authors
+
+ - Osman Junior Kamara
+ - precious Aminata Sandy 
+ - Alpha C.K Allieu
