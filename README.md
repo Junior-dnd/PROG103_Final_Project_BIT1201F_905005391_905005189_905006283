@@ -63,6 +63,6 @@ Handles backend operations and in‑memory data storage:
    python gui_layer.py
 
 ##Authors
-Osman Junior Kamara
-precious Aminata Sandy 
-Alpha C.K Allieu
+ -Osman Junior Kamara
+ -precious Aminata Sandy 
+ -Alpha C.K Allieu
